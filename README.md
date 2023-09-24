@@ -8,7 +8,6 @@ Put your shaders in a folder called shaders in the data root folder. RenderDrago
 
 YSS shaders running with mod:  
 ![Shaders running](https://user-images.githubusercontent.com/85067619/233049451-6253095e-e5c9-433c-b2f3-5ccad202ecba.png)
-
 ## Building
 `PATH_TO_NDK="/path/to/ndk"`
 - x86
